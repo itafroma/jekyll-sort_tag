@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Mark Trapp']
   s.email       = 'mark@marktrapp.com'
   s.files       = ['lib/jekyll/itafroma/sort_tag.rb']
-  s.homepage    = 'http://marktrapp.com/projects/jekyll-sort-tag'
+  s.homepage    = 'https://marktrapp.com/projects/jekyll-sort-tag'
   s.license     = 'MIT'
 end

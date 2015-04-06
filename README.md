@@ -32,7 +32,7 @@ Christine
 
 ## Copyright and license
 
-This plugin is copyright © 2013 [Mark Trapp][1]. All rights reserved. It is made
+This plugin is copyright © 2013–2015 [Mark Trapp][1]. All rights reserved. It is made
 available via the MIT license. A copy of the license can be found in the
 `LICENSE` file.
 
@@ -41,6 +41,6 @@ available via the MIT license. A copy of the license can be found in the
 * [Canonical project page][2]
 * [RubyGems project page][3]
 
-[1]: http://marktrapp.com "Mark Trapp’s website"
-[2]: http://marktrapp.com/projects/jekyll-sort-tag "Jekyll Sort Tag project page"
+[1]: https://marktrapp.com "Mark Trapp’s website"
+[2]: https://marktrapp.com/projects/jekyll-sort-tag "Jekyll Sort Tag project page"
 [3]: https://rubygems.org/gems/jekyll-itafroma-sort_tag "RubyGems project page"
